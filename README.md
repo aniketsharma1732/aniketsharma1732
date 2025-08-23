@@ -1,43 +1,80 @@
-👋 Hi, I'm Aniket Sharma
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
 
-🚀 Frontend Developer | Aspiring Full-Stack Developer | Tech Enthusiast
+###
 
-I’m passionate about building clean, responsive, and user-friendly web applications. Currently exploring MERN stack to expand my skill set and move toward full-stack development.
+<div align="center">
+  <a href="https://www.linkedin.com/in/your-linkedin" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://twitter.com/your-twitter" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  </a>
+  <a href="https://www.youtube.com/@your-youtube" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+  </a>
+</div>
 
-🧑‍💻 About Me
+###
 
-🎓 B.Tech CSE Student at VIT Bhopal University (2021–2025)
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=aniketsharma.aniketsharma"  />
+</div>
 
-💻 Skilled in ReactJS, JavaScript (ES6+), HTML5/CSS3, TailwindCSS, Bootstrap, Java (OOPs)
+###
 
-🌱 Currently learning MERN (MongoDB, Express.js, React, Node.js)
+<h1 align="center">Hey there 👋, I'm Aniket Sharma</h1>
 
-⚡ Interested in frontend roles and gradually moving into full-stack projects
+###
 
-🎯 Goal: Crack placements & build impactful projects
+<h3 align="left">👨‍💻 About Me</h3>
 
-🚀 Tech Stack
+###
 
-Frontend: ReactJS, JavaScript (ES6+), HTML5, CSS3, TailwindCSS, Bootstrap
-Backend: Node.js (learning), Express.js (learning)
-Database: MongoDB (learning), MySQL (basics)
-Other Skills: Java (OOP), Git/GitHub, Firebase
+<p align="left">
+I'm Aniket from India.<br><br>
+- 🔭 I’m a <b>Frontend Developer</b> exploring <b>MERN stack</b><br>
+- 📚 I'm currently learning <b>Node.js, Express.js & MongoDB</b><br>
+- ⚡ In my free time I work on projects, play cricket, and read about tech & businesses.
+</p>
 
-📂 Projects
+###
 
-🔹 E-commerce Website – Built with React, Tailwind, and Bootstrap for selling electronics.
-🔹 Real-time Chat Application – Firebase + React for live messaging.
-🔹 NASA Image Generator – Fetches daily NASA space images using APIs.
-🔹 Music Player Project – Custom UI with search & styled navigation.
+<h3 align="left">🛠 Languages and Tools</h3>
 
-📫 Connect With Me
+###
 
-💼 LinkedIn
- (add your link)
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" alt="tailwind logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo" />
+</div>
 
-🐦 Twitter
- (if you use)
+###
 
-📧 Email: your-email@example.com
+<h3 align="left">🔥 My Stats</h3>
 
-⭐️ “Code is like humor. When you have to explain it, it’s bad.”
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=aniketsharma&theme=dark&hide_border=false&border_radius=5" height="220" alt="streak graph" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniketsharma&layout=compact&theme=dark" height="150" alt="languages graph" />
+</div>
