@@ -12,7 +12,7 @@
 <h3 align="left">👨‍💻 About Me</h3>
 
 <p align="left">
-I am an aspiring Software Development Engineer with strong foundations in Java, JavaScript, and Data Structures & Algorithms.
+Aspiring Software Development Engineer with strong foundations in Java, JavaScript, and Data Structures & Algorithms.
 
 On the frontend, I work with HTML5, CSS3, JavaScript, React, Tailwind, and Material UI to build clean and responsive interfaces. On the backend, I am exploring the MERN stack (MongoDB, Express.js, Node.js) along with Firebase and SQL for data management.
 
@@ -24,13 +24,13 @@ I have built projects such as real-time chat applications, e-commerce platforms,
 <h3 align="left">📬 Contact Me</h3>
 
 <div align="center">
-  <a href="mailto:aniketsharma1922@gmail.com" target="_blank">
+  <a href="mailto:anikets.5061@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
   </a>
-  <a href="https://www.linkedin.com/in/aniket-sharma-1922" target="_blank">
+  <a href="https://www.linkedin.com/in/aniket-sharma7/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
-  <a href="https://www.instagram.com/aniket_sharma1922" target="_blank">
+  <a href="https://www.instagram.com/aniketsharma2457/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
   </a>
 </div>
@@ -57,10 +57,5 @@ I have built projects such as real-time chat applications, e-commerce platforms,
 
 ###
 
-<h3 align="left">🔥 My Stats</h3>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=aniketsharma&theme=dark&hide_border=false&border_radius=5" height="220" alt="streak graph" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniketsharma&layout=compact&theme=dark" height="150" alt="languages graph" />
-</div>
+
