@@ -8,6 +8,18 @@
 
 ###
 
+<h3 align="left">👨‍💻 About Me</h3>
+
+<p align="left">
+I’m a passionate <b>Frontend Developer</b> from India, currently exploring the <b>MERN stack</b> to grow into a Full-Stack Developer.<br><br>
+- 🎓 B.Tech CSE Student at <b>VIT Bhopal University (2021–2025)</b><br>
+- 💻 Skilled in <b>React, JavaScript, Tailwind, Bootstrap, and Java</b><br>
+- 🌱 Currently learning <b>Node.js, Express.js, and MongoDB</b><br>
+- ⚡ I enjoy building clean UIs, playing cricket, and reading about tech & businesses.
+</p>
+
+###
+
 <h3 align="left">📬 Contact Me</h3>
 
 <div align="center">
