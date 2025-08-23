@@ -18,7 +18,7 @@
 
 
 <p align="left">
-Aspiring Software Development Engineer with strong foundations in Java, JavaScript, and Data Structures & Algorithms.
+Software Development Engineer with strong foundations in Java, JavaScript, and Data Structures & Algorithms.
 
 On the frontend, I work with HTML5, CSS3, JavaScript, React, Tailwind, and Material UI to build clean and responsive interfaces. On the backend, I am exploring the MERN stack (MongoDB, Express.js, Node.js) along with Firebase and SQL for data management.
 
