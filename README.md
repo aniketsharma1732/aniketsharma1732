@@ -4,18 +4,19 @@
 
 ###
 
-<h1 align="center">Hey there 👋, I'm Aniket Sharma</h1>
+<h1 align="center">Aniket Sharma</h1>
+<h3 align="center">Software Developer Engineer</h3>
 
 ###
 
 <h3 align="left">👨‍💻 About Me</h3>
 
 <p align="left">
-I’m a passionate <b>Frontend Developer</b> from India, currently exploring the <b>MERN stack</b> to grow into a Full-Stack Developer.<br><br>
-- 🎓 B.Tech CSE Student at <b>VIT Bhopal University (2021–2025)</b><br>
-- 💻 Skilled in <b>React, JavaScript, Tailwind, Bootstrap, and Java</b><br>
-- 🌱 Currently learning <b>Node.js, Express.js, and MongoDB</b><br>
-- ⚡ I enjoy building clean UIs, playing cricket, and reading about tech & businesses.
+I am an aspiring Software Development Engineer with strong foundations in Java, JavaScript, and Data Structures & Algorithms.
+
+On the frontend, I work with HTML5, CSS3, JavaScript, React, Tailwind, and Material UI to build clean and responsive interfaces. On the backend, I am exploring the MERN stack (MongoDB, Express.js, Node.js) along with Firebase and SQL for data management.
+
+I have built projects such as real-time chat applications, e-commerce platforms, and API-based applications, and I am passionate about solving problems and writing efficient code. Outside of coding, I enjoy cricket, tech articles, and business insights.
 </p>
 
 ###
