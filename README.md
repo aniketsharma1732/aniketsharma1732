@@ -20,7 +20,7 @@
 <p align="left">
 Software Development Engineer with strong foundations in Java, JavaScript, and Data Structures & Algorithms.
 
-On the frontend, I work with HTML5, CSS3, JavaScript, React, Tailwind, and Material UI to build clean and responsive interfaces. On the backend, I am exploring the MERN stack (MongoDB, Express.js, Node.js) along with Firebase and SQL for data management.
+On the frontend, I work with HTML5, CSS3, JavaScript, React, Bootstrap, and Material UI to build clean and responsive interfaces. On the backend, I am exploring the MERN stack (MongoDB, Express.js, Node.js) along with Firebase and SQL for data management.
 
 I have built projects such as real-time chat applications, e-commerce platforms, and API-based applications, and I am passionate about solving problems and writing efficient code. Outside of coding, I enjoy cricket, tech articles, and business insights.
 </p>
@@ -48,7 +48,7 @@ I have built projects such as real-time chat applications, e-commerce platforms,
 <div align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="35" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="35" />
-  <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" height="35" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" height="35" />
   <img src="https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=mui&logoColor=white" height="35" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="35" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" height="35" />
