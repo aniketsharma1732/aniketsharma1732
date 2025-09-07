@@ -22,7 +22,7 @@ Software Development Engineer with strong foundations in Java, JavaScript, and D
 
 On the frontend, I work with HTML5, CSS3, JavaScript, React, Bootstrap, and Material UI to build clean and responsive interfaces. On the backend, I am exploring the MERN stack (MongoDB, Express.js, Node.js) along with Firebase and SQL for data management.
 
-I have built projects such as real-time chat applications, e-commerce platforms, and API-based applications, and I am passionate about solving problems and writing efficient code. Outside of coding, I enjoy cricket, tech articles, and business insights.
+I have built projects such as an AI-Powered healthcare website, a real-time chat application, an E-commerce platform, and API-based applications, and I am passionate about solving problems and writing efficient code. Outside of coding, I enjoy cricket, tech articles, and business insights.
 </p>
 
 ###
